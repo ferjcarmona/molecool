@@ -3,6 +3,8 @@ functions.py
 A python Package and a vizualizing xyz files.
 
 Handles the primary functions
+
+the source code goes here
 """
 
 

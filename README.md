@@ -5,7 +5,7 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
 
 
-A python Package and a vizualizing xyz files.
+A python Package and a vizualizing xyz files. This is under development. 
 
 ### Copyright
 
