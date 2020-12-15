@@ -7,6 +7,8 @@ molecool
 
 A python Package and a vizualizing xyz files. This is under development. 
 
+This was Developed at the University of Notre Dame. Go Irish!
+
 ### Copyright
 
 Copyright (c) 2020, Fernando Carmona
