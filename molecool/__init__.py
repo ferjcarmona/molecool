@@ -4,7 +4,7 @@ A python Package and a vizualizing xyz files.
 """
 
 # Add imports here
-from .functions import canvas
+from .functions import *
 
 # Handle versioneer
 from ._version import get_versions
