@@ -4,7 +4,7 @@ Visualization Functions
 import numpy as np
 import matplotlib.pyplot as plt
 from .atom_data import atom_colors
-from mpl_toolkits.mplot3d import Axes3D
+from mpl_toolkits.mplot3d import Axes3D # noqa: F104
 
 
 def draw_molecule(coordinates, symbols, draw_bonds=None, save_location=None, dpi=300):
